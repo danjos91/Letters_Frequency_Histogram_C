@@ -1,4 +1,4 @@
-# letters_frequency_histogram
+# letters_frequency_histogram_on_C
 Short program that counts letters on line text and show values as a histogram.
 
 Instructions:
